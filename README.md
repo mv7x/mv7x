@@ -1,6 +1,8 @@
-# Hi, I'm Mohamed Ali 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=003399&text=Mohamed&section=header&fontColor=FFFFFF&fontSize=70&fontAlignY=35&animation=twinkling&rotate=0&strokeWidth=0&reversal=false" alt="Mohamed Ali" />
+</p>
 
-### C# / .NET Software Developer
+<h3 align="center">C# / .NET Software Developer</h3>
 
 I build backend and full-stack applications with a focus on **C#/.NET**, **ASP.NET Core**, REST APIs, and database-driven software. I also work with React and JavaScript on the frontend, with Git and GitHub as part of my development workflow.
 
