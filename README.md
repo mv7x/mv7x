@@ -17,40 +17,34 @@
 
 ### Tech Stack
 
-<table width="100%" cellspacing="0" cellpadding="20" style="width:100%;border-collapse:collapse;">
+<div align="center">
+<table align="center" width="90%" cellspacing="0" cellpadding="20" style="margin:0 auto;border-collapse:collapse;">
 <tr>
-<td align="center" width="50%" style="width:50%;text-align:center;">
-<div align="center">
-<b>const Languages = {</b>
-<p align="center"><img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" /></p>
+<td align="center" width="50%">
+<b>const Languages = {</b><br><br>
+<img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" /><br><br>
 <b>};</b>
-</div>
 </td>
-<td align="center" width="50%" style="width:50%;text-align:center;">
-<div align="center">
-<b>const Backend = {</b>
-<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman" alt="Backend" /></p>
+<td align="center" width="50%">
+<b>const Backend = {</b><br><br>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman" alt="Backend" /><br><br>
 <b>};</b>
-</div>
 </td>
 </tr>
 <tr>
-<td align="center" width="50%" style="width:50%;text-align:center;">
-<div align="center">
-<b>const Frontend = {</b>
-<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" /></p>
+<td align="center" width="50%">
+<b>const Frontend = {</b><br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" /><br><br>
 <b>};</b>
-</div>
 </td>
-<td align="center" width="50%" style="width:50%;text-align:center;">
-<div align="center">
-<b>const Databases = {</b>
-<p align="center"><img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" /></p>
+<td align="center" width="50%">
+<b>const Databases = {</b><br><br>
+<img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" /><br><br>
 <b>};</b>
-</div>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
