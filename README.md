@@ -17,44 +17,44 @@
 
 ### Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="50%">
 
-### `const Languages = {`
+<strong>const Languages = {</strong>
 
 <img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" />
 
-### `};`
+<strong>};</strong>
 
 </td>
 <td align="center" width="50%">
 
-### `const Backend = {`
+<strong>const Backend = {</strong>
 
 <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman" alt="Backend" />
 
-### `};`
+<strong>};</strong>
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-### `const Frontend = {`
+<strong>const Frontend = {</strong>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" />
 
-### `};`
+<strong>};</strong>
 
 </td>
 <td align="center" width="50%">
 
-### `const Databases = {`
+<strong>const Databases = {</strong>
 
 <img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" />
 
-### `};`
+<strong>};</strong>
 
 </td>
 </tr>
