@@ -31,21 +31,11 @@
   </a>
 </div>
 
-## GitHub Overview
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=mv7x&show_icons=true&hide_border=true&theme=transparent" alt="Mohamed Ali's GitHub statistics" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mv7x&layout=compact&hide_border=true&theme=transparent" alt="Mohamed Ali's most used languages" height="165" /></p>
-
-## Featured Projects
-
-My profile currently has no public project repositories beyond this profile README repository. I’ll feature my strongest development projects here as they are added and documented.
-
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-ali-a77a8b352/)
 
 ---
-
-<p align="center"><sub>Building, learning, and improving one project at a time.</sub></p>
 
 <div align="center">
   <a href="YOUR_START_PROJECT_URL"><img src="https://img.shields.io/badge/START_A_PROJECT-0D1117?style=for-the-badge&logo=mail.ru&logoColor=003399" alt="Start a Project" /></a>
