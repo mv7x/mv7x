@@ -6,6 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=003399&center=true&vCenter=true&width=800&lines=C%23+%2F+.NET+Software+Developer;ASP.NET+Core+%7C+REST+APIs;Entity+Framework+Core+%7C+SQL;React+%7C+Full-Stack+Development" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/mv7x"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-ali-a77a8b352/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" /></a>
+  <a href="YOUR_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a>
+</p>
+
 I build backend and full-stack applications with a focus on **C#/.NET**, **ASP.NET Core**, REST APIs, and database-driven software. I also work with React and JavaScript on the frontend, with Git and GitHub as part of my development workflow.
 
 ## About Me
