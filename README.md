@@ -20,14 +20,14 @@
 ### Tech Stack
 
 <div align="center">
-<table align="center" width="90%" cellspacing="0" cellpadding="20" style="margin:0 auto;border-collapse:collapse;">
+<table align="center" width="100%" cellspacing="0" cellpadding="20" style="margin:0 auto;border-collapse:collapse;">
 <tr>
-<td align="center" width="50%"><b>const Languages = {</b><br><br><div align="center"><img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" /></div><br><b>};</b></td>
-<td align="center" width="50%"><b>const Backend = {</b><br><br><div align="center"><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman" alt="Backend" /></div><br><b>};</b></td>
+<td align="center" width="50%"><b>const Languages = {</b><br><br><img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" /><br><br><b>};</b></td>
+<td align="center" width="50%"><b>const Backend = {</b><br><br><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman" alt="Backend" /><br><br><b>};</b></td>
 </tr>
 <tr>
-<td align="center" width="50%"><b>const Frontend = {</b><br><br><div align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" /></div><br><b>};</b></td>
-<td align="center" width="50%"><b>const Databases = {</b><br><br><div align="center"><img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" /></div><br><b>};</b></td>
+<td align="center" width="50%"><b>const Frontend = {</b><br><br><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" /><br><br><b>};</b></td>
+<td align="center" width="50%"><b>const Databases = {</b><br><br><img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" /><br><br><b>};</b></td>
 </tr>
 </table>
 </div>
