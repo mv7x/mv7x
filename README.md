@@ -2,9 +2,7 @@
 
 <br>
 
-<p align="center"><a href="https://github.com/mv7x"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=003399" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/mohamed-ali-a77a8b352/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=003399" alt="LinkedIn" /></a> <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=003399" alt="Email" /></a> <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=003399" alt="Portfolio" /></a> <a href="YOUR_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=003399" alt="Discord" /></a></p>
-
-I build backend and full-stack applications with a focus on **C#/.NET**, **ASP.NET Core**, REST APIs, and database-driven software. I also work with React and JavaScript on the frontend, with Git and GitHub as part of my development workflow.
+<p align="center" style="margin-top:0;"><a href="https://github.com/mv7x"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=003399" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/mohamed-ali-a77a8b352/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=003399" alt="LinkedIn" /></a> <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=003399" alt="Email" /></a> <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=003399" alt="Portfolio" /></a> <a href="YOUR_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=003399" alt="Discord" /></a></p>
 
 ## About Me
 
