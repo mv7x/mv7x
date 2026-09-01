@@ -17,44 +17,44 @@
 
 ### Tech Stack
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="20" style="width:100%;border-collapse:collapse;">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" style="width:50%;">
 
-<strong>const Languages = {</strong>
+<b>const Languages = {</b>
 
-<img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" />
+<p align="center"><img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" /></p>
 
-<strong>};</strong>
+<b>};</b>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" style="width:50%;">
 
-<strong>const Backend = {</strong>
+<b>const Backend = {</b>
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman" alt="Backend" />
+<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman" alt="Backend" /></p>
 
-<strong>};</strong>
+<b>};</b>
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" style="width:50%;">
 
-<strong>const Frontend = {</strong>
+<b>const Frontend = {</b>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" />
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" /></p>
 
-<strong>};</strong>
+<b>};</b>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" style="width:50%;">
 
-<strong>const Databases = {</strong>
+<b>const Databases = {</b>
 
-<img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" />
+<p align="center"><img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" /></p>
 
-<strong>};</strong>
+<b>};</b>
 
 </td>
 </tr>
