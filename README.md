@@ -4,6 +4,8 @@
 
 <p align="center" style="margin-top:0;"><a href="https://github.com/mv7x"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=003399" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/mohamed-ali-a77a8b352/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=003399" alt="LinkedIn" /></a> <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=003399" alt="Email" /></a> <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=003399" alt="Portfolio" /></a> <a href="YOUR_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=003399" alt="Discord" /></a></p>
 
+**C# / .NET Software Developer building clean, reliable backend and full-stack applications.**
+
 ## About Me
 
 - 💻 Focused on **C# / .NET** and software engineering
