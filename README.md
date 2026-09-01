@@ -18,17 +18,33 @@
 ### Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,kotlin,java,go,python,dart,html,css" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,svelte,tailwind,sass,redux" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,graphql,postman,bun" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,postgres,mongodb,redis,prisma,firebase,supabase" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,vercel,linux,git,github,nginx,figma" />
-  </a>
+
+### `const Languages = {`
+
+<img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" />
+
+### `};`
+
+### `const Backend = {`
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,postman,nodejs" alt="Backend" />
+
+**ASP.NET Core** · **Entity Framework Core** · **REST Web APIs** · **WPF / WinForms**
+
+### `};`
+
+### `const Frontend = {`
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" />
+
+### `};`
+
+### `const Databases = {`
+
+<img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" />
+
+### `};`
+
 </div>
 
 ## Connect
