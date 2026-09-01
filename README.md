@@ -19,18 +19,24 @@
 
 ### Tech Stack
 
-<div align="center">
-<table align="center" width="100%" cellspacing="0" cellpadding="20" style="margin:0 auto;border-collapse:collapse;">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
 <tr>
-<td align="center" width="50%"><b>const Languages = {</b><br><br><img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" /><br><br><b>};</b></td>
-<td align="center" width="50%"><b>const Backend = {</b><br><br><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman" alt="Backend" /><br><br><b>};</b></td>
+<td width="50%" align="center" valign="top" style="text-align:center;padding:24px;">
+<div align="center"><b>const Languages = {</b><br><br><img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" /><br><br><b>};</b></div>
+</td>
+<td width="50%" align="center" valign="top" style="text-align:center;padding:24px;">
+<div align="center"><b>const Backend = {</b><br><br><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman" alt="Backend" /><br><br><b>};</b></div>
+</td>
 </tr>
 <tr>
-<td align="center" width="50%"><b>const Frontend = {</b><br><br><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" /><br><br><b>};</b></td>
-<td align="center" width="50%"><b>const Databases = {</b><br><br><img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" /><br><br><b>};</b></td>
+<td width="50%" align="center" valign="top" style="text-align:center;padding:24px;">
+<div align="center"><b>const Frontend = {</b><br><br><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" /><br><br><b>};</b></div>
+</td>
+<td width="50%" align="center" valign="top" style="text-align:center;padding:24px;">
+<div align="center"><b>const Databases = {</b><br><br><img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" /><br><br><b>};</b></div>
+</td>
 </tr>
 </table>
-</div>
 
 ---
 
