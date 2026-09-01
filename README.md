@@ -15,19 +15,15 @@
 - 🧪 Using **Swagger** and **Postman** for API development and testing
 - 📚 Continuously improving my backend and full-stack development skills
 
-## Tech Stack
+### Tech Stack
 
-**Backend**  
-`C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `REST APIs`
-
-**Database**  
-`SQL Server` · `PostgreSQL`
-
-**Frontend**  
-`React` · `JavaScript`
-
-**Tools**  
-`Git` · `GitHub` · `Swagger` · `Postman`
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=csharp,dotnet,js,html,css,react" alt="C#, .NET, JavaScript, HTML, CSS, React" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,postman,docker" alt="PostgreSQL, MySQL, Git, GitHub, Postman, Docker" />
+  </a>
+</div>
 
 ## GitHub Overview
 
