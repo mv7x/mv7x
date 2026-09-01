@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=003399&text=Mohamed&section=header&fontColor=FFFFFF&fontSize=70&fontAlignY=35&animation=twinkling&rotate=0&strokeWidth=0&reversal=false" alt="Mohamed Ali" />
 </p>
 
-<h3 align="center">C# / .NET Software Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=003399&center=true&vCenter=true&width=800&lines=C%23+%2F+.NET+Software+Developer;ASP.NET+Core+%7C+REST+APIs;Entity+Framework+Core+%7C+SQL;React+%7C+Full-Stack+Development" alt="Typing SVG" />
+</p>
 
 I build backend and full-stack applications with a focus on **C#/.NET**, **ASP.NET Core**, REST APIs, and database-driven software. I also work with React and JavaScript on the frontend, with Git and GitHub as part of my development workflow.
 
