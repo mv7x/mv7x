@@ -13,7 +13,7 @@
 3. 📱 **Application Development** — Building and working with software applications across different platforms
 4. 🗄️ **Databases** — SQL Server, PostgreSQL, MySQL, and Firebase
 5. ☁️ **Cloud & Hosting** — Working with cloud infrastructure, RDP/VDS services, hosting, and deployment
-6. 🤖 **Discord Bots** — Developing, deploying, and hosting Discord bots and automation
+6. 🤖 **Discord & Telegram Bots** — Developing, deploying, and hosting Discord and Telegram bots and automation
 7. 🔧 **Development Tools** — Git, GitHub, Swagger, Postman, and development workflows
 8. 🚀 **Continuous Learning** — Expanding my skills across software engineering, backend systems, cloud infrastructure, and automation
 
