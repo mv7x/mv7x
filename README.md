@@ -17,33 +17,48 @@
 
 ### Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
 ### `const Languages = {`
 
-<p align="center"><img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" /></p>
+<img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" />
 
 ### `};`
+
+</td>
+<td align="center" width="50%">
 
 ### `const Backend = {`
 
-<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman" alt="Backend" /></p>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman" alt="Backend" />
 
 ### `};`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
 ### `const Frontend = {`
 
-<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" /></p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" />
 
 ### `};`
+
+</td>
+<td align="center" width="50%">
 
 ### `const Databases = {`
 
-<p align="center"><img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" /></p>
+<img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" />
 
 ### `};`
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
