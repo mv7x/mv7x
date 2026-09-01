@@ -47,4 +47,8 @@ My profile currently has no public project repositories beyond this profile READ
 
 <p align="center"><sub>Building, learning, and improving one project at a time.</sub></p>
 
+<div align="center">
+  <a href="YOUR_START_PROJECT_URL"><img src="https://img.shields.io/badge/START_A_PROJECT-0D1117?style=for-the-badge&logo=mail.ru&logoColor=003399" alt="Start a Project" /></a>
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=003399&section=footer&fontColor=FFFFFF&fontSize=70&fontAlignY=35&animation=twinkling&rotate=0&strokeWidth=0&reversal=false" width="100%" alt="Footer" />
