@@ -1,4 +1,4 @@
-<div align="center" style="margin:0;padding:0;line-height:0;"><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=003399&text=Mohamed&section=header&fontColor=000000&fontSize=70&fontAlignY=30&animation=twinkling&rotate=0&strokeWidth=0&reversal=false" alt="Mohamed Ali" style="display:block;margin:0;padding:0;" /></div><div align="center" style="margin:0;padding:0;line-height:0;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=003399&center=true&vCenter=true&width=800&lines=C%23+%2F+.NET+Software+Developer;ASP.NET+Core+%7C+REST+APIs;Entity+Framework+Core+%7C+SQL;React+%7C+Full-Stack+Development" alt="Typing SVG" style="display:block;margin:0;padding:0;" /></div>
+<div align="center" style="margin:0;padding:0;line-height:0;"><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=003399&text=Mohamed&section=header&fontColor=000000&fontSize=70&fontAlignY=30&animation=twinkling&rotate=0&stroke=000000&strokeWidth=0&reversal=false" alt="Mohamed Ali" style="display:block;margin:0;padding:0;" /></div><div align="center" style="margin:0;padding:0;line-height:0;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=003399&center=true&vCenter=true&width=800&lines=C%23+%2F+.NET+Software+Developer;ASP.NET+Core+%7C+REST+APIs;Entity+Framework+Core+%7C+SQL;React+%7C+Full-Stack+Development" alt="Typing SVG" style="display:block;margin:0;padding:0;" /></div>
 
 <br>
 
@@ -20,28 +20,12 @@
 <div align="center">
 <table align="center" width="90%" cellspacing="0" cellpadding="20" style="margin:0 auto;border-collapse:collapse;">
 <tr>
-<td align="center" width="50%">
-<b>const Languages = {</b><br><br>
-<img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" /><br><br>
-<b>};</b>
-</td>
-<td align="center" width="50%">
-<b>const Backend = {</b><br><br>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman" alt="Backend" /><br><br>
-<b>};</b>
-</td>
+<td align="center" width="50%"><b>const Languages = {</b><br><br><img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" /><br><br><b>};</b></td>
+<td align="center" width="50%"><b>const Backend = {</b><br><br><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman" alt="Backend" /><br><br><b>};</b></td>
 </tr>
 <tr>
-<td align="center" width="50%">
-<b>const Frontend = {</b><br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" /><br><br>
-<b>};</b>
-</td>
-<td align="center" width="50%">
-<b>const Databases = {</b><br><br>
-<img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" /><br><br>
-<b>};</b>
-</td>
+<td align="center" width="50%"><b>const Frontend = {</b><br><br><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" /><br><br><b>};</b></td>
+<td align="center" width="50%"><b>const Databases = {</b><br><br><img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" /><br><br><b>};</b></td>
 </tr>
 </table>
 </div>
