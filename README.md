@@ -19,9 +19,15 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=csharp,dotnet,js,html,css,react" alt="C#, .NET, JavaScript, HTML, CSS, React" />
+    <img src="https://skillicons.dev/icons?i=ts,js,kotlin,java,go,python,dart,html,css" />
     <br><br>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,postman,docker" alt="PostgreSQL, MySQL, Git, GitHub, Postman, Docker" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,svelte,tailwind,sass,redux" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,graphql,postman,bun" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,postgres,mongodb,redis,prisma,firebase,supabase" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,vercel,linux,git,github,nginx,figma" />
   </a>
 </div>
 
