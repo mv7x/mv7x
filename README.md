@@ -19,43 +19,35 @@
 
 <table width="100%" cellspacing="0" cellpadding="20" style="width:100%;border-collapse:collapse;">
 <tr>
-<td align="center" width="50%" style="width:50%;">
-
+<td align="center" width="50%" style="width:50%;text-align:center;">
+<div align="center">
 <b>const Languages = {</b>
-
 <p align="center"><img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" /></p>
-
 <b>};</b>
-
+</div>
 </td>
-<td align="center" width="50%" style="width:50%;">
-
+<td align="center" width="50%" style="width:50%;text-align:center;">
+<div align="center">
 <b>const Backend = {</b>
-
 <p align="center"><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman" alt="Backend" /></p>
-
 <b>};</b>
-
+</div>
 </td>
 </tr>
 <tr>
-<td align="center" width="50%" style="width:50%;">
-
+<td align="center" width="50%" style="width:50%;text-align:center;">
+<div align="center">
 <b>const Frontend = {</b>
-
 <p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" /></p>
-
 <b>};</b>
-
+</div>
 </td>
-<td align="center" width="50%" style="width:50%;">
-
+<td align="center" width="50%" style="width:50%;text-align:center;">
+<div align="center">
 <b>const Databases = {</b>
-
 <p align="center"><img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" /></p>
-
 <b>};</b>
-
+</div>
 </td>
 </tr>
 </table>
