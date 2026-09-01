@@ -21,35 +21,29 @@
 
 ### `const Languages = {`
 
-<img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" />
+<p align="center"><img src="https://skillicons.dev/icons?i=csharp,php,ts,js,html,css" alt="Languages" /></p>
 
 ### `};`
 
 ### `const Backend = {`
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,postman,nodejs" alt="Backend" />
-
-**ASP.NET Core** · **Entity Framework Core** · **REST Web APIs** · **WPF / WinForms**
+<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman" alt="Backend" /></p>
 
 ### `};`
 
 ### `const Frontend = {`
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" />
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" /></p>
 
 ### `};`
 
 ### `const Databases = {`
 
-<img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" />
+<p align="center"><img src="https://skillicons.dev/icons?i=sqlserver,mysql,firebase,postgres" alt="Databases" /></p>
 
 ### `};`
 
 </div>
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/mohamed-ali-a77a8b352/)
 
 ---
 
